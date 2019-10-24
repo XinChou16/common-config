@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+.vscode/
+yarn-offline/
+docs/
+jest.config.js
+__mock__/
