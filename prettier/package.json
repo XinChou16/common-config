@@ -1,0 +1,11 @@
+{
+  "name": "prettier",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "prettier --write index.js"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
